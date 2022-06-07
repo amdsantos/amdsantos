@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
   📚 Sou uma pessoa curiosa que adora aprender coisas novas.
 
-  💻 Sempre tive uma queda por tecnologia.
+  💻 Sou apaixonada por tecnologia.
 
   😄 Pronomes: Ela / Dela.
 </div>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <h2> Ferramentas e Tecnologias  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
+  <h2> Ferramentas e Tecnologias  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2> 
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
           
