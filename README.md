@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
    <div align="center" id='topo'>
      <h2>Olá, eu sou a Amanda 👋</h2>
-     🌈 👩‍💻
+     🌈 👩‍💻 🚀
    </div>
 
    
