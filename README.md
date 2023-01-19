@@ -41,9 +41,8 @@ Here are some ideas to get you started:
      <h2> Ferramentas e Tecnologias <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/>
+<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/>
+<img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/>
    </div>
    
    <br>
@@ -52,7 +51,5 @@ Here are some ideas to get you started:
      <h2>GitHub Stats</h2>
      <a href="https://github.com/amdsantos">
        <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdsantos&layout=compact&langs_count=7&theme=dracula" />
-       <img height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=amdsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=amdsantos&show_icons=true&theme=transparent" />
    </div>
