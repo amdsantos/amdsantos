@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
    
    
-     👩‍🎓 Estudante de Sistemas para Internet na FIAP.
+     👩‍🎓 Graduada em Sistemas para Internet pela FIAP.
 
      📚 Sou uma pessoa curiosa que adora aprender coisas novas.
 
